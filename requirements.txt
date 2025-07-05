@@ -2,3 +2,4 @@ json_database
 ovos-bus-client
 ovos-plugin-manager
 RPi.GPIO
+adafruit-circuitpython-dotstar
